@@ -2,10 +2,10 @@
 "ver": "1.0.0",
 "pets_count": 5,
 "pets": {
-  "akira": "",
-  "mephone4": "",
-  "claude": "",
-  "pochita": "",
-  "boykisser": ""
+  "akira": "https://github.com/bad-kn1fe-cmd/box-of-untitledAI/blob/main/pets/akira_classic.png",
+  "mephone4": "https://github.com/bad-kn1fe-cmd/box-of-untitledAI/blob/main/pets/mephone4_classic.png",
+  "claude": "https://github.com/bad-kn1fe-cmd/box-of-untitledAI/blob/main/pets/claude_classic.png",
+  "pochita": "https://github.com/bad-kn1fe-cmd/box-of-untitledAI/blob/main/pets/pochitta_classic.png",
+  "boykisser": "https://github.com/bad-kn1fe-cmd/box-of-untitledAI/blob/main/pets/boykisser_classic.png"
   }
 }
